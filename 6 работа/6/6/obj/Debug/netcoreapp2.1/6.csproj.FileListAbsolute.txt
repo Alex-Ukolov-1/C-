@@ -1,0 +1,11 @@
+C:\6 прикладная\6\6\bin\Debug\netcoreapp2.1\6.deps.json
+C:\6 прикладная\6\6\bin\Debug\netcoreapp2.1\6.runtimeconfig.json
+C:\6 прикладная\6\6\bin\Debug\netcoreapp2.1\6.runtimeconfig.dev.json
+C:\6 прикладная\6\6\bin\Debug\netcoreapp2.1\6.dll
+C:\6 прикладная\6\6\bin\Debug\netcoreapp2.1\6.pdb
+C:\6 прикладная\6\6\obj\Debug\netcoreapp2.1\6.csprojAssemblyReference.cache
+C:\6 прикладная\6\6\obj\Debug\netcoreapp2.1\6.csproj.CoreCompileInputs.cache
+C:\6 прикладная\6\6\obj\Debug\netcoreapp2.1\6.AssemblyInfoInputs.cache
+C:\6 прикладная\6\6\obj\Debug\netcoreapp2.1\6.AssemblyInfo.cs
+C:\6 прикладная\6\6\obj\Debug\netcoreapp2.1\6.dll
+C:\6 прикладная\6\6\obj\Debug\netcoreapp2.1\6.pdb

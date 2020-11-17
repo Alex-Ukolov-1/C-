@@ -1,0 +1,30 @@
+﻿<Window x:Class="_16._04._2020.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_16._04._2020"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <WrapPanel Margin="10" Width="230" ItemHeight="35" ItemWidth="230">
+            <Button  Content="students" Click="StudentsButton_Click" />
+            <Button  Content="persons"   Click="PersonsButton_Click"/>
+            <Button  Content="teachers" Click="TeachersButton_Click"/>
+            <Button  Content="random student" Click="RandomStudentButton_Click"/>
+            <Button  Content="random person"  Click="RandomPersonButton_Click"/>
+        </WrapPanel>
+        <StackPanel Grid.ColumnSpan="2" Orientation="Horizontal" Grid.Column="1" Margin="30">
+            <Label x:Name="label1"/>
+            <Label x:Name="label2"/>
+            <Label x:Name="label3"/>
+            <Label x:Name="label4"/>
+            <Label x:Name="label5"/>
+        </StackPanel>
+    </Grid>
+</Window>

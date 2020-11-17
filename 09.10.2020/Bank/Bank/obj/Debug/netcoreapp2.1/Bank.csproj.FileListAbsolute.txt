@@ -1,0 +1,23 @@
+C:\sokolova\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.deps.json
+C:\sokolova\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.json
+C:\sokolova\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.dev.json
+C:\sokolova\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.dll
+C:\sokolova\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.pdb
+C:\sokolova\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.csprojAssemblyReference.cache
+C:\sokolova\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.csproj.CoreCompileInputs.cache
+C:\sokolova\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.AssemblyInfoInputs.cache
+C:\sokolova\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.AssemblyInfo.cs
+C:\sokolova\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.dll
+C:\sokolova\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.deps.json
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.json
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.runtimeconfig.dev.json
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.dll
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\bin\Debug\netcoreapp2.1\Bank.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.csprojAssemblyReference.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.AssemblyInfoInputs.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.AssemblyInfo.cs
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.dll
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\4(Уколов)\Bank\Bank\obj\Debug\netcoreapp2.1\Bank.genruntimeconfig.cache

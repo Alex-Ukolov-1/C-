@@ -1,0 +1,17 @@
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\BankTests.deps.json
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\BankTests.runtimeconfig.json
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\BankTests.runtimeconfig.dev.json
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\BankTests.dll
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\BankTests.pdb
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\4.dll
+C:\sokolova\4\BankTests\bin\Debug\netcoreapp2.1\4.pdb
+C:\sokolova\4\BankTests\obj\Debug\netcoreapp2.1\BankTests.csprojAssemblyReference.cache
+C:\sokolova\4\BankTests\obj\Debug\netcoreapp2.1\BankTests.csproj.CoreCompileInputs.cache
+C:\sokolova\4\BankTests\obj\Debug\netcoreapp2.1\BankTests.AssemblyInfoInputs.cache
+C:\sokolova\4\BankTests\obj\Debug\netcoreapp2.1\BankTests.AssemblyInfo.cs
+C:\sokolova\4\BankTests\obj\Debug\netcoreapp2.1\BankTests.csproj.CopyComplete
+C:\sokolova\4\BankTests\obj\Debug\netcoreapp2.1\BankTests.dll
+C:\sokolova\4\BankTests\obj\Debug\netcoreapp2.1\BankTests.pdb

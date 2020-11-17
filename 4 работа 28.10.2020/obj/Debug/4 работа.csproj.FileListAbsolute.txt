@@ -1,0 +1,20 @@
+C:\Новая папка\с# Воронина\4 работа\bin\Debug\4 работа.exe.config
+C:\Новая папка\с# Воронина\4 работа\bin\Debug\4 работа.exe
+C:\Новая папка\с# Воронина\4 работа\bin\Debug\4 работа.pdb
+C:\Новая папка\с# Воронина\4 работа\obj\Debug\4 работа.csprojAssemblyReference.cache
+C:\Новая папка\с# Воронина\4 работа\obj\Debug\_4_работа.Form1.resources
+C:\Новая папка\с# Воронина\4 работа\obj\Debug\_4_работа.Properties.Resources.resources
+C:\Новая папка\с# Воронина\4 работа\obj\Debug\4 работа.csproj.GenerateResource.cache
+C:\Новая папка\с# Воронина\4 работа\obj\Debug\4 работа.csproj.CoreCompileInputs.cache
+C:\Новая папка\с# Воронина\4 работа\obj\Debug\4 работа.exe
+C:\Новая папка\с# Воронина\4 работа\obj\Debug\4 работа.pdb
+C:\Users\Lesha\Desktop\мусор\4 работа\bin\Debug\4 работа.exe.config
+C:\Users\Lesha\Desktop\мусор\4 работа\bin\Debug\4 работа.exe
+C:\Users\Lesha\Desktop\мусор\4 работа\bin\Debug\4 работа.pdb
+C:\Users\Lesha\Desktop\мусор\4 работа\obj\Debug\4 работа.csprojAssemblyReference.cache
+C:\Users\Lesha\Desktop\мусор\4 работа\obj\Debug\_4_работа.Form1.resources
+C:\Users\Lesha\Desktop\мусор\4 работа\obj\Debug\_4_работа.Properties.Resources.resources
+C:\Users\Lesha\Desktop\мусор\4 работа\obj\Debug\4 работа.csproj.GenerateResource.cache
+C:\Users\Lesha\Desktop\мусор\4 работа\obj\Debug\4 работа.csproj.CoreCompileInputs.cache
+C:\Users\Lesha\Desktop\мусор\4 работа\obj\Debug\4 работа.exe
+C:\Users\Lesha\Desktop\мусор\4 работа\obj\Debug\4 работа.pdb

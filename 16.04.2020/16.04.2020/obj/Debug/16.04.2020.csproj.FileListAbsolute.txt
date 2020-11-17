@@ -1,0 +1,30 @@
+C:\16.04.2020\16.04.2020\16.04.2020\bin\Debug\16.04.2020.exe.config
+C:\16.04.2020\16.04.2020\16.04.2020\bin\Debug\16.04.2020.exe
+C:\16.04.2020\16.04.2020\16.04.2020\bin\Debug\16.04.2020.pdb
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\16.04.2020.csprojAssemblyReference.cache
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\MainWindow.g.cs
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\App.g.cs
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\16.04.2020_MarkupCompile.cache
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\16.04.2020_MarkupCompile.lref
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\MainWindow.baml
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\16.04.2020.g.resources
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\_16._04._2020.Properties.Resources.resources
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\16.04.2020.csproj.GenerateResource.cache
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\16.04.2020.csproj.CoreCompileInputs.cache
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\16.04.2020.exe
+C:\16.04.2020\16.04.2020\16.04.2020\obj\Debug\16.04.2020.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\bin\Debug\16.04.2020.exe.config
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\bin\Debug\16.04.2020.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\bin\Debug\16.04.2020.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\16.04.2020.csprojAssemblyReference.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\MainWindow.g.cs
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\App.g.cs
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\16.04.2020_MarkupCompile.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\16.04.2020_MarkupCompile.lref
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\MainWindow.baml
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\16.04.2020.g.resources
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\_16._04._2020.Properties.Resources.resources
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\16.04.2020.csproj.GenerateResource.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\16.04.2020.csproj.CoreCompileInputs.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\16.04.2020.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\16.04.2020\16.04.2020\obj\Debug\16.04.2020.pdb
