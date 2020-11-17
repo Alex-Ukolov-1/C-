@@ -1,0 +1,39 @@
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.exe
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.deps.json
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.runtimeconfig.json
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.runtimeconfig.dev.json
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.dll
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.pdb
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.csprojAssemblyReference.cache
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.csproj.CoreCompileInputs.cache
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.AssemblyInfoInputs.cache
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.AssemblyInfo.cs
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.dll
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.pdb
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.genruntimeconfig.cache
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\bin\Debug\netcoreapp3.1\пр_9.exe
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\bin\Debug\netcoreapp3.1\пр_9.deps.json
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\bin\Debug\netcoreapp3.1\пр_9.runtimeconfig.json
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\bin\Debug\netcoreapp3.1\пр_9.runtimeconfig.dev.json
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\bin\Debug\netcoreapp3.1\пр_9.dll
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\bin\Debug\netcoreapp3.1\пр_9.pdb
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\obj\Debug\netcoreapp3.1\пр_9.csprojAssemblyReference.cache
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\obj\Debug\netcoreapp3.1\пр_9.csproj.CoreCompileInputs.cache
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\obj\Debug\netcoreapp3.1\пр_9.AssemblyInfoInputs.cache
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\obj\Debug\netcoreapp3.1\пр_9.AssemblyInfo.cs
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\obj\Debug\netcoreapp3.1\пр_9.dll
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\obj\Debug\netcoreapp3.1\пр_9.pdb
+D:\1_Ilyas\college\4_course\документирование\практические\вводная\код\пр_9_input\пр_9\obj\Debug\netcoreapp3.1\пр_9.genruntimeconfig.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.deps.json
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.runtimeconfig.json
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.runtimeconfig.dev.json
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.dll
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\bin\Debug\netcoreapp3.1\пр_9.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.csprojAssemblyReference.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.AssemblyInfoInputs.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.AssemblyInfo.cs
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.csproj.CoreCompileInputs.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.dll
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\пр_9\пр_9\obj\Debug\netcoreapp3.1\пр_9.genruntimeconfig.cache

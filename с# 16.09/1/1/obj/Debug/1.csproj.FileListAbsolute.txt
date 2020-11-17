@@ -1,0 +1,20 @@
+C:\с# Воронина\1\1\bin\Debug\1.exe.config
+C:\с# Воронина\1\1\bin\Debug\1.exe
+C:\с# Воронина\1\1\bin\Debug\1.pdb
+C:\с# Воронина\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\с# Воронина\1\1\obj\Debug\_1.Form1.resources
+C:\с# Воронина\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\с# Воронина\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\с# Воронина\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\с# Воронина\1\1\obj\Debug\1.exe
+C:\с# Воронина\1\1\obj\Debug\1.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\bin\Debug\1.exe.config
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\bin\Debug\1.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\bin\Debug\1.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\obj\Debug\_1.Form1.resources
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\obj\Debug\_1.Properties.Resources.resources
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\obj\Debug\1.csproj.GenerateResource.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\obj\Debug\1.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\1\1\obj\Debug\1.pdb

@@ -1,0 +1,45 @@
+C:\Соколова\prakticheskaya3\prakticheskaya3\bin\Debug\prakticheskaya3.exe.config
+C:\Соколова\prakticheskaya3\prakticheskaya3\bin\Debug\prakticheskaya3.exe
+C:\Соколова\prakticheskaya3\prakticheskaya3\bin\Debug\prakticheskaya3.pdb
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.csprojAssemblyReference.cache
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\MainWindow.g.cs
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\App.g.cs
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3_MarkupCompile.cache
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3_MarkupCompile.lref
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\MainWindow.baml
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.g.resources
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.Properties.Resources.resources
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.csproj.GenerateResource.cache
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.csproj.CoreCompileInputs.cache
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.exe
+C:\Соколова\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.pdb
+C:\sokolova\prakticheskaya3\prakticheskaya3\bin\Debug\prakticheskaya3.exe.config
+C:\sokolova\prakticheskaya3\prakticheskaya3\bin\Debug\prakticheskaya3.exe
+C:\sokolova\prakticheskaya3\prakticheskaya3\bin\Debug\prakticheskaya3.pdb
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.csprojAssemblyReference.cache
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\MainWindow.g.cs
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\App.g.cs
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3_MarkupCompile.cache
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3_MarkupCompile.lref
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\MainWindow.baml
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.g.resources
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.Properties.Resources.resources
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.csproj.GenerateResource.cache
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.csproj.CoreCompileInputs.cache
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.exe
+C:\sokolova\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\bin\Debug\prakticheskaya3.exe.config
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\bin\Debug\prakticheskaya3.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\bin\Debug\prakticheskaya3.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.csprojAssemblyReference.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\MainWindow.g.cs
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\App.g.cs
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3_MarkupCompile.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3_MarkupCompile.lref
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\MainWindow.baml
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.g.resources
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.Properties.Resources.resources
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.csproj.GenerateResource.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.csproj.CoreCompileInputs.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\prakticheskaya3\prakticheskaya3\obj\Debug\prakticheskaya3.pdb

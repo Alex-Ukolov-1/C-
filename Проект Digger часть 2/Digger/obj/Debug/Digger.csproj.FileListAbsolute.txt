@@ -1,0 +1,64 @@
+C:\Users\anna6\Desktop\Digger\bin\Debug\Images\Digger.png
+C:\Users\anna6\Desktop\Digger\bin\Debug\Images\Gold.png
+C:\Users\anna6\Desktop\Digger\bin\Debug\Images\Monster.png
+C:\Users\anna6\Desktop\Digger\bin\Debug\Images\Sack.png
+C:\Users\anna6\Desktop\Digger\bin\Debug\Images\Terrain.png
+C:\Users\anna6\Desktop\Digger\bin\Debug\11-digger.exe.config
+C:\Users\anna6\Desktop\Digger\bin\Debug\11-digger.exe
+C:\Users\anna6\Desktop\Digger\bin\Debug\11-digger.pdb
+C:\Users\anna6\Desktop\Digger\bin\Debug\nunit.framework.dll
+C:\Users\anna6\Desktop\Digger\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\anna6\Desktop\Digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\anna6\Desktop\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\anna6\Desktop\Digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\anna6\Desktop\Digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\anna6\Desktop\Digger\obj\Debug\11-digger.exe
+C:\Users\anna6\Desktop\Digger\obj\Debug\11-digger.pdb
+C:\Users\alex\Desktop\Проект Digger\Digger\bin\Debug\Images\Digger.png
+C:\Users\alex\Desktop\Проект Digger\Digger\bin\Debug\Images\Gold.png
+C:\Users\alex\Desktop\Проект Digger\Digger\bin\Debug\Images\Monster.png
+C:\Users\alex\Desktop\Проект Digger\Digger\bin\Debug\Images\Sack.png
+C:\Users\alex\Desktop\Проект Digger\Digger\bin\Debug\Images\Terrain.png
+C:\Users\alex\Desktop\Проект Digger\Digger\bin\Debug\11-digger.exe.config
+C:\Users\alex\Desktop\Проект Digger\Digger\bin\Debug\11-digger.exe
+C:\Users\alex\Desktop\Проект Digger\Digger\bin\Debug\11-digger.pdb
+C:\Users\alex\Desktop\Проект Digger\Digger\bin\Debug\nunit.framework.dll
+C:\Users\alex\Desktop\Проект Digger\Digger\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Проект Digger\Digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\alex\Desktop\Проект Digger\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Проект Digger\Digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Проект Digger\Digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\alex\Desktop\Проект Digger\Digger\obj\Debug\11-digger.exe
+C:\Users\alex\Desktop\Проект Digger\Digger\obj\Debug\11-digger.pdb
+C:\Users\aleks\Desktop\Проект Digger\Digger\bin\Debug\Images\Digger.png
+C:\Users\aleks\Desktop\Проект Digger\Digger\bin\Debug\Images\Gold.png
+C:\Users\aleks\Desktop\Проект Digger\Digger\bin\Debug\Images\Monster.png
+C:\Users\aleks\Desktop\Проект Digger\Digger\bin\Debug\Images\Sack.png
+C:\Users\aleks\Desktop\Проект Digger\Digger\bin\Debug\Images\Terrain.png
+C:\Users\aleks\Desktop\Проект Digger\Digger\bin\Debug\11-digger.exe.config
+C:\Users\aleks\Desktop\Проект Digger\Digger\bin\Debug\11-digger.exe
+C:\Users\aleks\Desktop\Проект Digger\Digger\bin\Debug\11-digger.pdb
+C:\Users\aleks\Desktop\Проект Digger\Digger\bin\Debug\nunit.framework.dll
+C:\Users\aleks\Desktop\Проект Digger\Digger\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\aleks\Desktop\Проект Digger\Digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\aleks\Desktop\Проект Digger\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\aleks\Desktop\Проект Digger\Digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\Проект Digger\Digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\aleks\Desktop\Проект Digger\Digger\obj\Debug\11-digger.exe
+C:\Users\aleks\Desktop\Проект Digger\Digger\obj\Debug\11-digger.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\bin\Debug\Images\Digger.png
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\bin\Debug\Images\Gold.png
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\bin\Debug\Images\Monster.png
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\bin\Debug\Images\Sack.png
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\bin\Debug\Images\Terrain.png
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\bin\Debug\11-digger.exe.config
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\bin\Debug\11-digger.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\bin\Debug\11-digger.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\bin\Debug\nunit.framework.dll
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\obj\Debug\Digger.csprojAssemblyReference.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\obj\Debug\11-digger.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\Проект Digger часть 2\Digger\obj\Debug\11-digger.pdb

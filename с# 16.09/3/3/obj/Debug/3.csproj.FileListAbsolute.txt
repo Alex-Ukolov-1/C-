@@ -1,0 +1,10 @@
+C:\с# Воронина\3\3\bin\Debug\3.exe.config
+C:\с# Воронина\3\3\bin\Debug\3.exe
+C:\с# Воронина\3\3\bin\Debug\3.pdb
+C:\с# Воронина\3\3\obj\Debug\3.csprojAssemblyReference.cache
+C:\с# Воронина\3\3\obj\Debug\_3.Form1.resources
+C:\с# Воронина\3\3\obj\Debug\_3.Properties.Resources.resources
+C:\с# Воронина\3\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\с# Воронина\3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\с# Воронина\3\3\obj\Debug\3.exe
+C:\с# Воронина\3\3\obj\Debug\3.pdb

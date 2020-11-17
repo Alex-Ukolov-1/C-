@@ -1,0 +1,8 @@
+1,Kiev,18,120
+2,Kiev,19,100
+3,Kiev,20,90
+4,Kiev,22,150
+5,Moscow,23,130
+6,Moscow,24,75
+7,Moscow,25,110
+8,Moscow,26,160

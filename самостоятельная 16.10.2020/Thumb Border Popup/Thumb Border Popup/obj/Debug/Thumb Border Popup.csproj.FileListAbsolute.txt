@@ -1,0 +1,19 @@
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Thumb Border Popup.csprojAssemblyReference.cache
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\MainWindow.g.cs
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Page1.g.cs
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Page2.g.cs
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\App.g.cs
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Thumb Border Popup_MarkupCompile.cache
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Thumb Border Popup_MarkupCompile.lref
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\bin\Debug\Thumb Border Popup.exe.config
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\bin\Debug\Thumb Border Popup.exe
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\bin\Debug\Thumb Border Popup.pdb
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\MainWindow.baml
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Page1.baml
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Page2.baml
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Thumb Border Popup.g.resources
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Thumb_Border_Popup.Properties.Resources.resources
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Thumb Border Popup.csproj.GenerateResource.cache
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Thumb Border Popup.csproj.CoreCompileInputs.cache
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Thumb Border Popup.exe
+C:\10\12 работ\Thumb Border Popup\Thumb Border Popup\obj\Debug\Thumb Border Popup.pdb

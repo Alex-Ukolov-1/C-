@@ -1,0 +1,14 @@
+C:\с# Воронина\2 консоль\2 консоль\bin\Debug\2 консоль.exe.config
+C:\с# Воронина\2 консоль\2 консоль\bin\Debug\2 консоль.exe
+C:\с# Воронина\2 консоль\2 консоль\bin\Debug\2 консоль.pdb
+C:\с# Воронина\2 консоль\2 консоль\obj\Debug\2 консоль.csprojAssemblyReference.cache
+C:\с# Воронина\2 консоль\2 консоль\obj\Debug\2 консоль.csproj.CoreCompileInputs.cache
+C:\с# Воронина\2 консоль\2 консоль\obj\Debug\2 консоль.exe
+C:\с# Воронина\2 консоль\2 консоль\obj\Debug\2 консоль.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\2 консоль\2 консоль\bin\Debug\2 консоль.exe.config
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\2 консоль\2 консоль\bin\Debug\2 консоль.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\2 консоль\2 консоль\bin\Debug\2 консоль.pdb
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\2 консоль\2 консоль\obj\Debug\2 консоль.csprojAssemblyReference.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\2 консоль\2 консоль\obj\Debug\2 консоль.csproj.CoreCompileInputs.cache
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\2 консоль\2 консоль\obj\Debug\2 консоль.exe
+C:\Users\Lesha\Desktop\Портфолио Уколов\c#\с# 16.09\2 консоль\2 консоль\obj\Debug\2 консоль.pdb

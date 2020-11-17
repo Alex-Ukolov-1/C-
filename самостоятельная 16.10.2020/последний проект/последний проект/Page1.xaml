@@ -1,0 +1,30 @@
+﻿<Page x:Class="последний_проект.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:последний_проект"
+      mc:Ignorable="d" 
+      d:DesignHeight="850" d:DesignWidth="1000"
+      Title="Page1">
+
+    <Grid>
+        <Frame x:Name="Main" Margin="0,0,50,0"></Frame>
+        <StackPanel  Background="Gray">
+            <Button x:Name="button1"  Content="thumb" HorizontalAlignment="Left" Margin="33,62,0,0" VerticalAlignment="Top" Width="197" Height="113" FontSize="36" />
+            <Button  x:Name="button2" Content="Border" HorizontalAlignment="Left" Margin="270,-112,0,0" VerticalAlignment="Top" Width="190" Height="113" RenderTransformOrigin="0.489,0.507" FontSize="36" />
+            <Button x:Name="button3" Content="Popup" HorizontalAlignment="Left" Margin="500,-112,0,0" VerticalAlignment="Top" Width="185" Height="113" FontSize="36" />
+            <Button x:Name="button4"  BorderThickness="0,0,10,10"  HorizontalAlignment="Left" Margin="33,0,0,0" VerticalAlignment="Top" Width="916" Height="472" Visibility="Visible" FontSize="72" FontFamily="Showcard Gothic"/>
+
+            <Button x:Name="button5" BorderBrush="Red" BorderThickness="10,10,10,10"  HorizontalAlignment="Left" Margin="350,-420,0,0" VerticalAlignment="Top" Width="316" Height="342" Visibility="Visible" FontSize="72" FontFamily="Showcard Gothic"/>
+            <Button x:Name="button6" BorderBrush="Aqua" Content="yes" BorderThickness="10,10,10,10"  HorizontalAlignment="Left" Margin="370,-400,0,0" VerticalAlignment="Top" Width="76" Height="42" Visibility="Visible" FontSize="16" FontFamily="Showcard Gothic"/>
+            <Button x:Name="button7" BorderBrush="Aqua" Content="two"  BorderThickness="10,10,10,10"  HorizontalAlignment="Left" Margin="460,-400,0,0" VerticalAlignment="Top" Width="76" Height="42" Visibility="Visible" FontFamily="Showcard Gothic"/>
+            <Button x:Name="button8" BorderBrush="Aqua" Content="two"  BorderThickness="10,10,10,10"  HorizontalAlignment="Left" Margin="550,-400,0,0" VerticalAlignment="Top" Width="76" Height="42" Visibility="Visible" FontSize="14" FontFamily="Showcard Gothic"></Button>
+
+            <Button x:Name="button9" BorderBrush="Yellow" Content="one"  BorderThickness="10,10,10,10"  HorizontalAlignment="Left" Margin="370,-330,0,0" VerticalAlignment="Top" Width="270" Height="42" Visibility="Visible" FontSize="14" FontFamily="Showcard Gothic"></Button>
+            <Button x:Name="button10" BorderBrush="Yellow" Content="two"  BorderThickness="10,10,10,10"  HorizontalAlignment="Left" Margin="370,-270,0,0" VerticalAlignment="Top" Width="270" Height="42" Visibility="Visible" FontSize="14" FontFamily="Showcard Gothic"></Button>
+            <Button x:Name="button11" BorderBrush="Yellow" Content="three"  BorderThickness="10,10,10,10"  HorizontalAlignment="Left" Margin="370,-210,0,0" VerticalAlignment="Top" Width="270" Height="42" Visibility="Visible" FontSize="14" FontFamily="Showcard Gothic"></Button>
+
+        </StackPanel>
+    </Grid>
+</Page>
